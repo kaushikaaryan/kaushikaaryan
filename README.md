@@ -1,4 +1,4 @@
-###  Hi there, I'm ra1nbow 👋
+###  Hi there, I'm Aaryan👋
 
 I'm Aaryan, a professional Full Stack developer from Jalandhar.
 
